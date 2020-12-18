@@ -37,7 +37,6 @@ h1{
     margin-top: 20px;
 }
 .hide{
-    background: chartreuse;
     overflow: hidden;
 }
 .hide span{
